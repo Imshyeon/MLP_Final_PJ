@@ -8,6 +8,7 @@
       <h2>📆 Period</h2>
       <p style="margin: 0rem 1rem">2023.10.20 ~ 2023.12.13</p>
     </section>
+    <br>
     <!-- 프로젝트 구성원 및 기술 스택 -->
     <section style="margin: 1.5rem 0">
       <h2>👥 프로젝트 구성원 및 기술 스택</h2>
@@ -104,6 +105,7 @@
         </details>
       </div>
     </section>
+    <br>
     <!-- 프로젝트 개요 -->
     <section style="margin: 1.5rem 0">
       <h2>📄 프로젝트 개요</h2>
@@ -151,6 +153,7 @@
         </details>
       </div>
     </section>
+    <br>
     <!-- 역할 -->
     <section style="margin: 1.5rem 0">
       <h2>📝 프로젝트 역할</h2>
@@ -284,6 +287,7 @@
         </div>
       </div>
     </section>
+    <br>
     <!-- 성과 -->
     <section style="margin: 1.5rem 0">
       <h2>❤️‍🔥 프로젝트 성과 및 리뷰</h2>
@@ -446,7 +450,12 @@
         </details>
       </div>
     </section>
+    <br>
    <section style="margin: 1.5rem 0">
       <h2>📹 최종 구현 영상</h2>
-🔗 [구현 영상 보기](https://github.com/Imshyeon/MLP_Final_PJ/assets/93653747/2a5e3005-5c6d-4cda-866b-13ea83cf6e65)
+
+
+https://github.com/Imshyeon/MLP_Final_PJ/assets/93653747/4cde96c1-2574-4718-9f68-bcb1796ce7d0
+
+
    </section>
