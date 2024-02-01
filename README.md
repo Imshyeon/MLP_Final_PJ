@@ -46,6 +46,7 @@
             </li>
           </ul>
         </details>
+         <br>
         <details style="margin-bottom: 1.3rem">
           <summary style="font-size: larger; font-weight: 600">
             기술 스택
@@ -101,6 +102,7 @@
             />
           </div>
         </details>
+           <br>
       </div>
     </section>
     <!-- 프로젝트 개요 -->
@@ -121,12 +123,14 @@
             </li>
           </ul>
         </details>
+         <br>
         <details style="margin-bottom: 1.3rem">
           <summary style="font-size: larger; font-weight: 600">대상</summary>
           <p style="margin-left: 1.8rem">
             안개나 미세먼지 등 흐린 이미지를 개선하고자 하는 기업 혹은 개인
           </p>
         </details>
+         <br>
         <details style="margin-bottom: 1.3rem">
           <summary style="font-size: larger; font-weight: 600">
             기획 의도
@@ -136,6 +140,7 @@
             사용자들이 자신의 목적에 맞게 이미지를 자유롭게 이용할 수 있도록 함
           </p>
         </details>
+         <br>
         <details style="margin-bottom: 1.3rem">
           <summary style="font-size: larger; font-weight: 600">
             핵심 기능
@@ -145,6 +150,7 @@
             <li>안개 제거 전/후의 사진을 저장할 수 있는 기능</li>
           </ul>
         </details>
+         <br>
       </div>
     </section>
     <!-- 역할 -->
@@ -216,6 +222,7 @@
               </li>
             </ul>
           </details>
+           <br>
           <details>
             <summary style="font-size: larger; font-weight: 600">
               문서 작성
@@ -276,6 +283,7 @@
               </li>
             </ul>
           </details>
+           <br>
         </div>
       </div>
     </section>
@@ -288,6 +296,7 @@
           프로젝트 워크플로우 | 위의 그림처럼 전체적인 프로젝트가 진행
         </figcaption>
       </figure>
+       <br>
       <figure style="margin-bottom: 2rem">
         <img src="./image/home.gif" alt="home page" />
         <figcaption style="text-align:center">
@@ -295,10 +304,12 @@
           적용
         </figcaption>
       </figure>
+       <br>
       <figure style="margin-bottom: 2rem">
         <img src="./image/scroller.gif" alt="scroller" />
         <figcaption style="text-align:center">스크롤바를 이용하여 이미지 개선 전/후 비교</figcaption>
       </figure>
+       <br><br>
       <div style="margin: 0rem 1rem">
         <details>
           <summary style="font-size: larger; font-weight: 600">
@@ -353,6 +364,7 @@
             </li>
           </ul>
         </details>
+         <br>
         <details>
           <summary style="font-size: larger; font-weight: 600">
             프로젝트 리뷰
@@ -432,9 +444,10 @@
             </li>
           </ul>
         </details>
+         <br>
       </div>
     </section>
    <section style="margin: 1.5rem 0">
       <h2>📹 최종 구현 영상</h2>
-      
+https://github.com/Imshyeon/MLP_Final_PJ/assets/93653747/2a5e3005-5c6d-4cda-866b-13ea83cf6e65
    </section>
